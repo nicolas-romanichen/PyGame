@@ -6,12 +6,12 @@ Projeto de estudo para criar jogos simples e explorar os recursos do Pygame.
 
 Instale o Pygame:
 
-```bash
+```sh
 python -m pip install pygame
 ```
 
 Execute o projeto:
 
-```bash
+```sh
 python main.py
 ```
