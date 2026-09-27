@@ -1,0 +1,17 @@
+# Country Flags
+
+Projeto de estudo para criar jogos simples e explorar os recursos do Pygame.
+
+## Como executar
+
+Instale o Pygame:
+
+```bash
+python -m pip install pygame
+```
+
+Execute o projeto:
+
+```bash
+python main.py
+```
